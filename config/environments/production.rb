@@ -69,6 +69,8 @@ Omrails::Application.configure do
   config.action_mailer.default_url_options = { :host => 'localhost:3000' }
 
   # config/environments/production.rb
+  Paperclip::Attachment.default_options[:url] = ':s3_domain_url'
+
   config.paperclip_defaults = {
     :storage => :s3,
     :s3_credentials => {
