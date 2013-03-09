@@ -9,6 +9,6 @@ class Pin < ActiveRecord::Base
                                size: { less_than: 5.megabytes }
 
   belongs_to :user
-  has_attached_file :image, :styles => { :medium => "320x240>", :thumb => "72x72>" }
+  has_attached_file :image, :styles => { :medium => "320x240>", :thumb => "72x72>" }, :url => ':s3_domain_url'
 
 end
