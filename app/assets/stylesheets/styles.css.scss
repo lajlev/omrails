@@ -23,3 +23,24 @@ body{
     color:$gray;
   }
 }
+
+// Req for MjQuery Masonry
+
+.box {
+  margin: 5px;
+  padding: 5px;
+  font-size: 11px;
+  line-height: 1.4em;
+  float: left;
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px #ccc;
+  width: 214px;
+
+  img {
+    display: block;
+  }
+}
+
+.description {
+  margin: 10px 0 5px;
+}
