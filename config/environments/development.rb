@@ -39,4 +39,5 @@ Omrails::Application.configure do
 
   # Paperclip requirement
   Paperclip.options[:command_path] = "/usr/local/bin/"
+
 end
