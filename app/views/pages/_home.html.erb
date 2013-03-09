@@ -1,0 +1,13 @@
+<% unless user_signed_in? %>
+  <div class="center hero-unit">
+    <h1>Welcome!</h1>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur provident voluptates placeat magni modi architecto dolores laudantium harum deserunt nihil et veritatis in accusantium velit amet reprehenderit ullam dolorum repudiandae.
+    </p>
+    <br>
+    <p>
+      <%= link_to 'Sign up now!' , new_user_registration_path, class: 'btn btn-large btn-primary' %>
+      or <%= link_to 'login' , new_user_session_path %>
+    </p>
+  </div>
+<% end %>

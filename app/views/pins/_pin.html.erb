@@ -10,11 +10,11 @@
       Posted by <%= pin.user.name %>
     </strong>
   </p>
-  <%= link_to 'Show', pin %>
   <p>
+    <%= link_to 'Show', pin %>
     <% if current_user == pin.user %>
-      <%= link_to 'Edit', edit_pin_path(pin) %>
-      <%= link_to 'Delete', pin, method: :delete, data: { confirm: 'Are you sure?' } %>
+      | <%= link_to 'Edit', edit_pin_path(pin) %>
+      | <%= link_to 'Delete', pin, method: :delete, data: { confirm: 'Are you sure?' } %>
     <% end %>
   </p>
 </div>
