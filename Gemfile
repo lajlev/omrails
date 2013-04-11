@@ -6,6 +6,7 @@ gem 'devise'
 gem 'simple_form'
 gem 'paperclip', '~> 3.0'
 gem 'aws-sdk'
+gem 'faker'
 
 gem "tilt", "1.3.4"
 

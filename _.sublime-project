@@ -4,7 +4,7 @@
     {
       "path": ".",
       "name": "omrails",
-      "file_exclude_patterns": ["Gemfile.lock", ".gitignore"],
+      "file_exclude_patterns": ["Gemfile.lock"],
       "folder_exclude_patterns": [".sass-cache"]
     }
   ],
