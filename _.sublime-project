@@ -1,0 +1,17 @@
+{
+  "folders":
+  [
+    {
+      "path": ".",
+      "name": "omrails",
+      "file_exclude_patterns": ["Gemfile.lock", ".gitignore"],
+      "folder_exclude_patterns": [".sass-cache"]
+    }
+  ],
+  "settings":
+  {
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
+  }
+}

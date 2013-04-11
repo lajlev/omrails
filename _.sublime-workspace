@@ -1,0 +1,437 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"selected_items":
+		[
+			[
+				"bow",
+				"Bower: Install"
+			],
+			[
+				"bor",
+				"Bower: Install"
+			],
+			[
+				"bo",
+				"Bower: Install"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"sor",
+				"Sort via CSScomb"
+			],
+			[
+				"sort",
+				"Sort via CSScomb"
+			],
+			[
+				"css",
+				"Sort via CSScomb"
+			],
+			[
+				"ht",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"haml",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"hml",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"html",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"emm",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lajlev/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/_foundation_settings.css.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/pages/invitations.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/pages/invitations/1_add.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/layout.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/b2b.css.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/vendor/foundation/components/_sub-nav.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/modules/_page-header.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/config.rb",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/layouts/simple_dashboard_link.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/modules/_all.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/pages/invitations-settings.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/modules/_data-tables.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/vendor/foundation/components/_type.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/index.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/mods/fsh.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/modules/_tag-labels.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/scripts/mods/data-tables.jquery.js",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/scripts/pages/invitations.jquery.js",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/scripts/all.js",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/app.css.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/scripts/vendor/foundation-datepicker.js",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/vendor/foundation-datepicker.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/scripts/mods/foundation-datepicker.js",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/modules/_fontello.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/modules/_forms.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/vendor/foundation/components/_labels.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/reviews.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/vendor/foundation/components/_alert-boxes.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/scripts/foundation/foundation.alerts.js",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/vendor/foundation/components/_block-grid.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/modules/fsh.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/layouts/layout_old.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/layouts/layout.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/welcome.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/modules/_modules.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/modules/_overview-list.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/modules/modules.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/vendor/foundation/components/_top-bar.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/vendor/foundation/components/_grid.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/vendor/foundation/components/_global.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/README.md",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/old-layout.slim",
+		"/Users/lajlev/.bash_profile",
+		"/Users/lajlev/Sites/trustpilot/.gitignore",
+		"/Users/lajlev/Sites/trustpilot/b2b/_.sublime-project",
+		"/Users/lajlev/Sites/test/sublime/bower/component.json",
+		"/Users/lajlev/Sites/victor-portfolio/source/styles/modules/_tiles.scss",
+		"/Users/lajlev/Sites/victor-portfolio/source/index.slim",
+		"/Users/lajlev/Sites/victor-portfolio/source/about.slim",
+		"/Users/lajlev/Sites/victor-portfolio/source/styles/modules/_social.scss",
+		"/Users/lajlev/Sites/victor-portfolio/source/layouts/layout.slim",
+		"/Users/lajlev/Sites/victor-portfolio/source/scripts/all.js",
+		"/Users/lajlev/Sites/victor-portfolio/source/scripts/functions.zepto.js",
+		"/Users/lajlev/Sites/victor-portfolio/config.rb",
+		"/Users/lajlev/Sites/victor-portfolio/source/styles/modules/_header-footer.scss",
+		"/Users/lajlev/Sites/trustpilot/www-lajlev/source/style",
+		"/Users/lajlev/Sites/trustpilot/www-lajlev/source/style-guide.slim",
+		"/Users/lajlev/Sites/trustpilot/www-lajlev/source/sdf",
+		"/Users/lajlev/Sites/trustpilot/www-lajlev/source/company-profile.slim",
+		"/Users/lajlev/Sites/trustpilot/www-lajlev/config.rb",
+		"/Users/lajlev/Sites/victor-portfolio/source/styles/modules/_timeline.scss",
+		"/Users/lajlev/Sites/victor-portfolio/source/styles/modules/_data.scss",
+		"/Users/lajlev/Sites/victor-portfolio/source/styles/modules/modules.scss",
+		"/Users/lajlev/Sites/victor-portfolio/source/styles/_1.base.scss",
+		"/Users/lajlev/Sites/victor-portfolio/source/styles/modules/_short-sweet.scss",
+		"/Users/lajlev/Sites/victor-portfolio/source/styles/modules/_featured.scss",
+		"/Users/lajlev/Sites/victor-portfolio/source/styles/_0.site-settings.scss",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/layouts/simple.slim",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/scripts/foundation/index.js",
+		"/Users/lajlev/Sites/trustpilot/b2b/Gemfile",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/scripts/jquery.js",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/scripts/shared/jquery.js",
+		"/Users/lajlev/Sites/trustpilot/b2b/source/styles/b2b/b2b.css.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/b2b/index.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/shared/_foundation_settings.css.scss",
+		"/Users/lajlev/Sites/trustpilot/.git/MERGE_MSG",
+		"/Users/lajlev/Sites/trustpilot/.git/COMMIT_EDITMSG",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/app.css.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/b2b/fontello/_fontello.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/b2b/b2b.css.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/shared/fontello/fontello.css",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/images/b2b/toplogo_invert.png",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/site/single_review/index_v1.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/playground/tables_foundation_bug.slim",
+		"/Users/lajlev/Desktop/test.html",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/layouts/layout.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/shared/_responsive_debug.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/scripts/shared/all.js",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/site/index.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/admin/ivan/custom/index.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/admin/admin.css.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/shared/icons_social/_settings.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/layouts/admin.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/shared/icons_general/_settings.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/shared/icons/_settings.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/shared/icons/general_foundicons.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/shared/app.css.scss",
+		"/Users/lajlev/Desktop/foundation-icons-master/foundation_icons_general/demo.html",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/admin/ivan/core/company_profile/index.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/admin/shared/_nav.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/admin/ivan/index.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/admin/ivan/company_profile/index.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/admin/ivan/company_profile/default.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/admin/ivan.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/admin/ivan/company_profile.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/admin/index.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/config.rb",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/admin/shared.css.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/admin/index.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/index.slim",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/index.css.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/shared/_settings.css.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/shared/all.css.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/Gemfile",
+		"/Users/lajlev/Sites/trustpilot/prototype/source/styles/index.scss",
+		"/Users/lajlev/Sites/trustpilot/prototype/README.md",
+		"/Users/lajlev/Sites/test/middleman/source/layouts/layout.slim",
+		"/Users/lajlev/Sites/test/middleman/source/index.slim",
+		"/Users/lajlev/Sites/test/middleman/.gitignore",
+		"/Users/lajlev/Sites/trustpilot/README",
+		"/Users/lajlev/Sites/trustpilot/README.md",
+		"/Users/lajlev/Sites/test/middleman/README.md",
+		"/Users/lajlev/Sites/test/middleman/config.rb",
+		"/Users/lajlev/Sites/test/middleman/Gemfile",
+		"/Users/lajlev/Sites/test/middleman/source/styles/all.css.scss",
+		"/Users/lajlev/Sites/test/middleman/source/layouts/layout.haml",
+		"/Users/lajlev/Sites/test/jekyll/_plugins/sass_converter.rb"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"row",
+			".inner",
+			"rgba",
+			"../fonts/fontello",
+			"old",
+			"max",
+			".divider",
+			"divider",
+			"$topbar-breakpoint",
+			".social",
+			".active",
+			"$subtle-color",
+			"nav-bar",
+			"main",
+			"url",
+			"drop",
+			"\n  ",
+			"padding-top:45px",
+			"nine",
+			"Single review",
+			"h1",
+			"dl",
+			"ul",
+			"block",
+			"border",
+			"tag",
+			"p {",
+			"p:",
+			"p",
+			".small-company-reply",
+			"reply from",
+			".small-company-reply",
+			"aside",
+			"div.inside",
+			"border-rad",
+			"<strong",
+			"strong",
+			"#main-men",
+			".button",
+			"main",
+			"#main-me",
+			"Create a Foo",
+			".winner",
+			"#main",
+			"dd",
+			"6px;",
+			"approved",
+			"span class=\"title",
+			"text",
+			"<dd",
+			"dd",
+			"ul.info",
+			".info",
+			"info",
+			"name",
+			"aside",
+			"aside img",
+			".name",
+			"480",
+			"479",
+			"reply from",
+			"ul.info",
+			".review-container",
+			".review-container aside ul.info",
+			"trustscore",
+			"box",
+			".inside",
+			".overview",
+			"margin-right:",
+			"right",
+			"child",
+			"vhost",
+			"virtu",
+			"/IfDefine",
+			"servername",
+			"company-profile",
+			"minso"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../fonts/fontello/fontello",
+			"$color-subtle",
+			"singlereview"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"wel",
+				"source/welcome.slim"
+			],
+			[
+				"lay",
+				"source/styles/layout.scss"
+			],
+			[
+				"bas",
+				"source/styles/_1.base.scss"
+			],
+			[
+				"com",
+				"source/company.haml"
+			],
+			[
+				"s",
+				"db/schema.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"hel",
+				"app/views/demo/hello.html.erb"
+			],
+			[
+				"inde",
+				"app/views/demo/index.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true
+}
